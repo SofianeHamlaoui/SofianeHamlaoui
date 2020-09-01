@@ -14,7 +14,9 @@
 <div align="center">
   
 <h3> 👨 Sofiane Hamlaoui | 👨🏻‍💻 Cyber Security Analyst | 🌏 Lyon, France </h3>
+
 </div>
+
 ### :octocat: About me 
 
 - 👩🏻 Pronouns: `he/him` 

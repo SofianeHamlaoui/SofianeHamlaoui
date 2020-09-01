@@ -14,7 +14,7 @@
 <div align="center">
   
 <h3> 👨 Sofiane Hamlaoui | 👨🏻‍💻 Cyber Security Analyst | 🌏 Lyon, France </h3>
-
+</div>
 ### :octocat: About me 
 
 - 👩🏻 Pronouns: `he/him` 
@@ -27,6 +27,8 @@
 ### 📬 People find me [here](https://twitter.com/S0fianeHamlaoui) 🌿
 
 ### 💡 Want to know what's I'm working on ❓❗️ Click [here](https://twitter.com/S0fianeHamlaoui) 
+
+<div align="center">
 
 ![Sofiane's github stats](https://github-readme-stats.vercel.app/api/?username=SofianeHamlaoui&show_icons=true&count_private=true&show_icons=true&theme=dark&layout=compact) 
 

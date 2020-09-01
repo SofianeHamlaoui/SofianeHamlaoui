@@ -1,10 +1,42 @@
-### Hi there 👋 I'm Sofiane Hamlaoui, A CS student from Lyon, France. 
-![](https://github-readme-stats.vercel.app/api?username=SofianeHamlaoui&count_private=true&show_icons=true&theme=dark&count_private=true)
+<div align="center">
+  <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
+ 
+<p align='center'> 
+<a href="https://www.linkedin.com/in/sofianehamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@SofianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/S0fianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/SofianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/S0fianeHamlaoui/"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
-<b>A Cyber Security Aanlyst and a big fan of programming and that's why I'm here helping by contributing to open source projects and enjoying it. I also like reading books and understand the human psychology.<b>  
+<div align="center">
+  
+<h3> 👨 Sofiane Hamlaoui | 👨🏻‍💻 Cyber Security Analyst | 🌏 Lyon, France </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofianeHamlaoui&hide=javascript,html&theme=dark)](https://github.com/SofianeHamlaoui)
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SofianeHamlaoui)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/S0fianeHamlaoui)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/S0fianeHamlaoui)
+### :octocat: About me 
 
-![Profile views](https://gpvc.arturio.dev/SofianeHamlaoui)  
+- 👩🏻 Pronouns: `he/him` 
+- 👀 Want to learn how ❓ To control humans 👀
+- 🔭 Currently Studing Info Sec and working at a small private company.
+- 🌱 Learning `Everything`.
+- 💬 Ask me about `Cyber Security❓☞ [here](https://twitter.com/S0fianeHamlaoui).
+- ⚡ Fun fact: I drink more coffee than water.
+
+### 📬 People find me [here](https://twitter.com/S0fianeHamlaoui) 🌿
+
+### 💡 Want to know what's I'm working on ❓❗️ Click [here](https://twitter.com/S0fianeHamlaoui) 
+
+<div align="center">
+
+![Sofiane's github stats](https://github-readme-stats.vercel.app/api/?username=SofianeHamlaoui&show_icons=true&count_private=true&show_icons=true&theme=dark&layout=compact) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofianeHamlaoui&layout=compact&hide=html&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Profile views](https://gpvc.arturio.dev/SofianeHamlaoui) 
+</div>
+
+
+ 

@@ -9,10 +9,8 @@
 <a href="https://dev.to/SofianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/S0fianeHamlaoui/"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCCjypR-PBzkLJiZYy95HQIQ"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
-  
-<h3> 👨 Sofiane Hamlaoui | 👨🏻‍💻 Cyber Security Analyst | 🌏 Lyon, France </h3>
 
-</div>
+<div align="center"><h3> 👨 Sofiane Hamlaoui | 👨🏻‍💻 Cyber Security Analyst | 🌏 Lyon, France </h3></div>
 
 ### :octocat: About me 
 

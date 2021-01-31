@@ -47,6 +47,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofianeHamlaoui&layout=compact&hide=html&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofianehamlaoui&theme=gotham" alt="sofianehamlaoui" /></p>
 
+</div>

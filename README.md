@@ -7,13 +7,15 @@
   
 ![Profile views](https://gpvc.arturio.dev/SofianeHamlaoui) 
 
+<p align="center"><a href="https://twitter.com/s0fianehamlaoui" target="blank"><img src="https://img.shields.io/twitter/follow/s0fianehamlaoui?logo=twitter&style=for-the-badge" alt="s0fianehamlaoui" /></a></p>
+
 </div>
 
 ## 🏆 GitHub Trophies
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sofianehamlaoui&theme=onedark" alt="sofianehamlaoui" /></a></p>
 
-<p align="center"><a href="https://twitter.com/s0fianehamlaoui" target="blank"><img src="https://img.shields.io/twitter/follow/s0fianehamlaoui?logo=twitter&style=for-the-badge" alt="s0fianehamlaoui" /></a></p>
+
 
 
 

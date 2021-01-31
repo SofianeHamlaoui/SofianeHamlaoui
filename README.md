@@ -88,34 +88,21 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=lockdoor-bot&show_icons=true&line_height=27&theme=gotham"/>
 </a>
 
-<a href="https://github.com/SofianeHamlaoui/Go-undercover">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=Go-undercover&show_icons=true&line_height=27&theme=gotham"/>
-</a>  
 
 <a href="https://github.com/SofianeHamlaoui/movetocorner">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=movetocorner&show_icons=true&line_height=27&theme=gotham"/>
 </a> 
 
-<a href="https://github.com/SofianeHamlaoui/LuniCleaner">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=LuniCleaner&show_icons=true&line_height=27&theme=gotham"/>
-</a>    
 
 <a href="https://github.com/SofianeHamlaoui/nordvpn-rotating">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=nordvpn-rotating&show_icons=true&line_height=27&theme=gotham"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=nordvpn-rotating&show_icons=true&line_height=27&theme=gotham"/>
 </a>
 
 <a href="https://github.com/SofianeHamlaoui/CyberSecurityCare">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=CyberSecurityCare&show_icons=true&line_height=27&theme=gotham"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=CyberSecurityCare&show_icons=true&line_height=27&theme=gotham"/>
 </a>
 
-<a href="https://github.com/SofianeHamlaoui/i3-scripts">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=i3-scripts&show_icons=true&line_height=27&theme=gotham"/>
-</a>
-
-<a href="https://github.com/SofianeHamlaoui/Ana-Chajra">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=Ana-Chajra&show_icons=true&line_height=27&theme=gotham"/>
-</a>
 
 <a href="https://github.com/SofianeHamlaoui/CheatSheets-Collection">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=CheatSheets-Collection&show_icons=true&line_height=27&theme=gotham"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=CheatSheets-Collection&show_icons=true&line_height=27&theme=gotham"/>
 </a>

@@ -62,4 +62,60 @@
 
 </div>
 
+## 🗂️ Highlight Projects
 
+<a href="https://github.com/SofianeHamlaoui/Lockdoor-Framework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=Lockdoor-Framework&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>
+
+<a href="https://github.com/SofianeHamlaoui/Pentest-Notes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=Pentest-Notes&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>
+
+<a href="https://github.com/SofianeHamlaoui/Pentest-Bookmarkz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=Pentest-Bookmarkz&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>
+
+<a href="https://github.com/SofianeHamlaoui/WD-Decrypte">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=WD-Decrypte&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>
+
+<a href="https://github.com/SofianeHamlaoui/ArchI0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=ArchI0&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>
+
+<a href="https://github.com/SofianeHamlaoui/lockdoor-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=lockdoor-bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>
+
+<a href="https://github.com/SofianeHamlaoui/Go-undercover">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=Go-undercover&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>  
+
+<a href="https://github.com/SofianeHamlaoui/movetocorner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=movetocorner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a> 
+
+<a href="https://github.com/SofianeHamlaoui/LuniCleaner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=LuniCleaner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>    
+
+<a href="https://github.com/SofianeHamlaoui/nordvpn-rotating">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=nordvpn-rotating&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>
+
+<a href="https://github.com/SofianeHamlaoui/CyberSecurityCare">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=CyberSecurityCare&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>
+
+<a href="https://github.com/SofianeHamlaoui/i3-scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=i3-scripts&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>
+
+<a href="https://github.com/SofianeHamlaoui/Ana-Chajra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=Ana-Chajra&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>
+
+<a href="https://github.com/SofianeHamlaoui/CheatSheets-Collection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofianeHamlaoui&repo=CheatSheets-Collection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"/>
+</a>

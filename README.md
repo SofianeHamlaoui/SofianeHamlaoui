@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sofiane Hamlaoui</h1>
-<h3 align="center">👨 Sofiane Hamlaoui | 👨🏻‍💻 Cyber Security Analyst | 🌏 Lyon, France</h3>
+<h3 align="center">🌏 Lyon, France</h3>
 
 
 <div align="center">

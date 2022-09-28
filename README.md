@@ -23,7 +23,6 @@
 
 - 👩🏻 Pronouns: `he/him` 
 - 👀 Want to learn how ❓ To control humans 👀
-- 🔭 Currently Studing Info Sec and working at a small private company.
 - 🌱 Learning `Everything`.
 - 💬 Ask me about `Cyber Security❓☞ [here](https://twitter.com/S0fianeHamlaoui).
 - ⚡ Fun fact: I drink more coffee than water.

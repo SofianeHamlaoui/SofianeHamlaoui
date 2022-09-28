@@ -35,12 +35,8 @@
 
 
 <p align='center'> 
-<a href="https://www.linkedin.com/in/sofianehamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@SofianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/S0fianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/SofianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/S0fianeHamlaoui/"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCCjypR-PBzkLJiZYy95HQIQ"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
 </div>
 
 ## 🔧 Technologies & Tools

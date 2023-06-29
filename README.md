@@ -5,8 +5,6 @@
 
 <div align="center">
   
-![Profile views](https://gpvc.arturio.dev/SofianeHamlaoui) 
-
 <p align="center"><a href="https://twitter.com/s0fianehamlaoui" target="blank"><img src="https://img.shields.io/twitter/follow/s0fianehamlaoui?logo=twitter&style=for-the-badge" alt="s0fianehamlaoui" /></a></p>
 
 </div>
@@ -22,7 +20,7 @@
 ## :octocat: About me 
 
 - 👩🏻 Pronouns: `he/him` 
-- 👀 Want to learn how ❓ To control humans 👀
+- 👀 Want to learn how ❓ To make the world a better place
 - 🌱 Learning `Everything`.
 - 💬 Ask me about `Cyber Security❓☞ [here](https://twitter.com/S0fianeHamlaoui).
 - ⚡ Fun fact: I drink more coffee than water.

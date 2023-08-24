@@ -15,8 +15,6 @@
 
 
 
-
-
 ## :octocat: About me 
 
 - 👩🏻 Pronouns: `he/him` 
@@ -42,12 +40,7 @@
 
 <div align="center">
 
-![Sofiane's github stats](https://github-readme-stats.vercel.app/api/?username=SofianeHamlaoui&show_icons=true&count_private=true&show_icons=true&theme=gotham&layout=compact) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofianeHamlaoui&layout=compact&hide=html&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofianehamlaoui&theme=gotham" alt="sofianehamlaoui" /></p>
-
 
 </div>
 

@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sofianehamlaoui&theme=onedark" alt="sofianehamlaoui" /></a></p>
 
-### 💡 Current Open Source Project ❓❗️
+### 💡 Latest Open Source Project ❓❗️
 ![https://i.imgur.com/yEOqC39.png](https://i.imgur.com/rn0n7km.png)
 
 The augmented model project was born during an experiment as part of the **MAM** project: **Mediation and Augmented Modeling**. Various workshops were organized in collaboration with **LabEx IMU**, **ERASME Urban Lab** and the **École Urbaine de Lyon**.

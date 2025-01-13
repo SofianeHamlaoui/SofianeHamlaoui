@@ -29,7 +29,7 @@ The new project consists of a model of a city district made from Lego and create
 
 ## &#x1f4c8; GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SofianeHamlaoui&theme=transparent&hide_border=true" alt="sofianehamlaoui" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sofianehamlaoui&show_icons=true&theme=dark)
 
 </div>
 

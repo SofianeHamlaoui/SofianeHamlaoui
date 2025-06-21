@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Sofiane Hamlaoui</h1>
 <h3 align="center">🌏 Lyon, France</h3>
-
-
+<p align='center'> 
+<a href="https://twitter.com/S0fianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  
 <div align="center">
 
 
@@ -21,9 +22,6 @@ The new project consists of a model of a city district made from Lego and create
 
 
 <p align='center'> 
-<a href="https://twitter.com/S0fianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/sofianehamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@SofianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:contact@sofiane.cc"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/email.png?raw=true"></a>&nbsp;&nbsp;
 
 

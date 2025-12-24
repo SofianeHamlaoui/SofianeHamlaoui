@@ -1,16 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Sofiane Hamlaoui</h1>
+<h1 align="center">Hi 👋 <br> I'm Sofiane Hamlaoui</h1>
+
+<p align="center"><img src="https://avatars.githubusercontent.com/u/16967174?v=4" alt="sofianehamlaoui" /></a></p>
+
 <h3 align="center">🌏 Lyon, France</h3>
 <p align='center'> 
 <a href="https://twitter.com/S0fianeHamlaoui"><img height="30" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
   
-<div align="center">
-
-
-## 🏆 GitHub Trophies
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sofianehamlaoui&theme=onedark" alt="sofianehamlaoui" /></a></p>
-
 ### 💡 Latest Open Source Project ❓❗️
 ![https://i.imgur.com/yEOqC39.png](https://i.imgur.com/rn0n7km.png)
 

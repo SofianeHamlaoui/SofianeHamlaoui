@@ -23,6 +23,8 @@ The new project consists of a model of a city district made from Lego and create
 
 ## &#x1f4c8; GitHub Stats
 
+<div align="center">
+
 ![GitHub stats](https://nirzak-streak-stats.vercel.app/?user=SofianeHamlaoui&theme=dark&hide_border=true)
 
 </div>

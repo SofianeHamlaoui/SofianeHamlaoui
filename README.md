@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 <br> I'm Sofiane Hamlaoui</h1>
 
-<p align="center"><img src="https://avatars.githubusercontent.com/u/16967174?v=4" alt="sofianehamlaoui" /></a></p>
+<!-- <p align="center"><img src="https://avatars.githubusercontent.com/u/16967174?v=4" alt="sofianehamlaoui" /></a></p> -->
 
 <h3 align="center">🌏 Lyon, France</h3>
 <p align='center'> 
